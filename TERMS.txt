@@ -5,6 +5,8 @@ Copyright (c) 2020 Mrmagicpie
 https://mrmagicpie.xyz/license
 
 Below are the terms for the License located at https://dogebot.us.to/LICENSE. 
+
+GENERAL TERMS:
  
 (1) This website has been made for the DogeBot Discord bot. 
 (2) The Dogebot team, if they see fit, may commercialize this website.
@@ -15,7 +17,7 @@ COPYRIGHT CREDIT TERMS:
 
 (1) Copyright claims in the footer of all pages must include the Licensor, and if the Dogebot team see fit, Copyright to the Dogebot team
 (2) All Dogebot copyright claims will only copyright work done by the Dogebot team(images, descriptions, etc.)
-(3) Additional editors mentioned in "COPYRIGHT CREDIT TERMS: (1)" will not be guaranteed a copyright claim anywhere on/the web property. 
+(3) Additional editors mentioned in "GENERAL TERMS: (3)" will not be guaranteed a copyright claim anywhere on/the web property. 
 
 END OF TERMS
  
